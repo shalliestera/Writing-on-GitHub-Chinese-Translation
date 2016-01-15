@@ -1,3 +1,5 @@
+Writing on GitHub / Markdown Basics  
+[本页原文](https://help.github.com/articles/markdown-basics/)
 # Markdown 基础语法 #
 
 [Markdown](http://daringfireball.net/projects/markdown/) 允许你使用`易于阅读`，`易于书写`的纯文本格式写作，随后可转换成在 GitHub 上查看的有效的 HTML。
@@ -97,3 +99,8 @@ what is x
 ## 链接 ##
 用一对方括号 （`[ ]`）括住链接文本，然后用一对圆括号 （`( )`） 括住链接本身，来创建一个内联链接。  
 例如，创建一个跳转到 [www.github.com](http://www.github.com/) 的超链接，链接文本是“Visit GitHub!”，用 Markdown 是这么写的： `[visit GitHub!](http://www.github.com)` 。
+
+## 另请参阅 ##
+* [GitHub Flavored Markdown](#)
+* [Writing on GitHub](#)
+* [Mastering Markdown](#)
