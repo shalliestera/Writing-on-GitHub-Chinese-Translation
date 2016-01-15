@@ -29,7 +29,7 @@ In the words of Abraham Lincoln:
 ```
 
 ### 带样式的文本 `Styling text` ###
-你可以使文本 **加粗** 或 *倾斜* 。
+可以使文本 **[加粗](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong)** 或 *[倾斜](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)* 。
 ```markdown
 *This text will be italic*
 **This text will be bold**
@@ -83,8 +83,8 @@ Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonab
 ```
 
 ### 多行代码 ###
-三个重音符 （`` ``` ``）使文本单独成块显示。
-```markdown
+三个重音符 （<code>```</code>）使文本单独成块显示。
+<pre>
 Check out this neat program I wrote: 
 
 ```
@@ -92,7 +92,7 @@ x = 0
 x = 2 + 2
 what is x
 ```
-```
+</pre>
 
 ## 链接 ##
 用一对方括号 （`[ ]`）括住链接文本，然后用一对圆括号 （`( )`） 括住链接本身，来创建一个内联链接。  
