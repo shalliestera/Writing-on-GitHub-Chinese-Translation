@@ -1,4 +1,5 @@
-Writing on GitHub / Writing on GitHub
+Writing on GitHub / Writing on GitHub  
+[原文链接](https://help.github.com/articles/writing-on-github/)
 # 在 GitHub 上写作 #
 isusues、评论和合并请求描述由 GibHub 风格的 Markdown 写成，其中含有使得在GitHub上更易于写作的额外特性。
 
